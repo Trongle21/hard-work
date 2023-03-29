@@ -1,0 +1,7 @@
+@media(max-width:500px) {
+    .menu-list {
+        display: flex;
+        flex-direction: column;
+    }
+    .sub-menu {}
+}
